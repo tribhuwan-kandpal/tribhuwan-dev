@@ -41,7 +41,7 @@ menu:
       url: /posts/
       weight: 10
 
-  markup:
-    goldmark:
-      renderer:
-        unsafe: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
