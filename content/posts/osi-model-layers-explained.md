@@ -40,7 +40,7 @@ That is the **OSI model**.
 **Visualizing the "Envelopes":**
 *Notice how Layers 5 and 6 are hidden inside the Layer 7 payload? That is because in modern networking, the Application handles them internally.*
 
-![OSI Model Layers Encapsulation Diagram](/images/OSI-Model-Layers-Explained/OSI-Layer-2025-12-31-212209.png)
+<img src="/images/OSI-Model-Layers-Explained/OSI-Layer-2025-12-31-212209.png" alt="Encapsulation Layers" width="600px" style="display: block; margin: 0 auto;">
 
 Each layer wraps the previous layer’s data in its own “envelope” — adding headers, metadata, and instructions for the next layer.
 
