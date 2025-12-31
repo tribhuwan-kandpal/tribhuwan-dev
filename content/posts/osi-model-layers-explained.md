@@ -20,7 +20,7 @@ Here is the reality:
 They are protocols — a shared understanding between two systems on how to talk to each other.
 Understanding this distinction changes everything about how you debug, architect, and think about networking.
 
-<img src="/images/OSI-Model-Layers-Explained/OSI-Communication-Diagram.png" alt="Diagram of the 7-layer OSI Model in a data center context" width="100%">
+![Diagram of the 7-layer OSI Model in a data center context](/images/OSI-Model-Layers-Explained/OSI-Communication-Diagram.png)
 
 ---
 
@@ -40,7 +40,7 @@ That is the **OSI model**.
 **Visualizing the "Envelopes":**
 *Notice how Layers 5 and 6 are hidden inside the Layer 7 payload? That is because in modern networking, the Application handles them internally.*
 
-<img src="/images/OSI-Model-Layers-Explained/OSI-Layer-2025-12-31-212209.png" alt="OSI Model Layers Encapsulation Diagram" width="800px">
+![OSI Model Layers Encapsulation Diagram](/images/OSI-Model-Layers-Explained/OSI-Layer-2025-12-31-212209.png)
 
 Each layer wraps the previous layer’s data in its own “envelope” — adding headers, metadata, and instructions for the next layer.
 
@@ -124,7 +124,7 @@ Layers are **contracts**.
 The OSI model is not theory — it’s a checklist.
 Use this flow to diagnose issues. Notice how Layers 1 and 2 are local, while Layers 3+ are end-to-end.
 
-<img src="/images/OSI-Model-Layers-Explained/OSI-Layer-Flow-2025-12-31-212512.png" alt="OSI Model Flow Troubleshooting" width="800px">
+![OSI Model Flow Troubleshooting](/images/OSI-Model-Layers-Explained/OSI-Layer-Flow-2025-12-31-212512.png)
 
 - **Can’t see Wi-Fi at all?** → Layer 1
 - **Can see Wi-Fi but can’t join?** → Layer 2
