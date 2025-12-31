@@ -40,3 +40,8 @@ menu:
       name: Blog
       url: /posts/
       weight: 10
+
+  markup:
+    goldmark:
+      renderer:
+        unsafe: true
