@@ -26,6 +26,11 @@ params:
       - name: "Github"
         url: "https://github.com/tribhuwan-kandpal"
 
+  analytics:
+    google:
+      measurementID: "G-JH0M17GQVR"
+      SiteVerificationTag: ""
+
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/tribhuwan-kandpal"
