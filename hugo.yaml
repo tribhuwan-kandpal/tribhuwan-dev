@@ -17,7 +17,7 @@ params:
     enabled: true
     title: "Tribhuwan Kandpal"
     # YOUR NEW HEADLINE HERE:
-    subtitle: "Devices | Streaming | Multimedia | EdgeAI | Networking | IoT | Embedded | Mentor | Leader"
+    subtitle: "Leader | Mentor | Devices | Streaming | Multimedia | EdgeAI | Networking | IoT | Embedded"
     imageUrl: "https://github.com/tribhuwan-kandpal.png" 
     imageTitle: "Tribhuwan Kandpal"
     buttons:
@@ -26,10 +26,9 @@ params:
       - name: "Github"
         url: "https://github.com/tribhuwan-kandpal"
 
-  analytics:
-    google:
-      measurementID: "G-JH0M17GQVR"
-      SiteVerificationTag: ""
+services:
+  googleAnalytics:
+    id: "G-JH0M17GQVR"
 
   socialIcons:
     - name: linkedin

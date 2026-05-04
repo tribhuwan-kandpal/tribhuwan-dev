@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Tribhuwan Kandpal</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Tribhuwan Kandpal</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 May 2026 22:48:25 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demystifying the MP4: What Actually Happens When You Press Play</title>
+      <link>http://localhost:1313/posts/demystifying-the-mp4/</link>
+      <pubDate>Sun, 03 May 2026 22:48:25 -0700</pubDate>
+      <guid>http://localhost:1313/posts/demystifying-the-mp4/</guid>
+      <description>An MP4 is not a video. It&amp;#39;s a highly structured container. Understanding its architecture changes how you approach streaming, recovery and debugging.</description>
+    </item>
+    <item>
+      <title>Building at the Speed of Thought: AI as a Force Multiplier</title>
+      <link>http://localhost:1313/posts/building-this-site-with-ai/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/building-this-site-with-ai/</guid>
+      <description>How I built this blog from &amp;rsquo;empty folder&amp;rsquo; to &amp;lsquo;production&amp;rsquo; in under an hour using AI.</description>
+    </item>
+    <item>
+      <title>The OSI Model: Stop Memorizing Acronyms, Start Understanding Layers</title>
+      <link>http://localhost:1313/posts/osi-model-layers-explained/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/osi-model-layers-explained/</guid>
+      <description>&lt;p&gt;You’ve probably seen the diagram: seven colored boxes stacked vertically with cryptic acronyms—PHY, DLL, NWK, TRM, SES, PRS, APP.&lt;/p&gt;
+&lt;p&gt;If you are like most people learning networking, you memorized them for an exam —or maybe an interview —nodded, and moved on without truly understanding &lt;em&gt;why&lt;/em&gt; they exist.&lt;/p&gt;
+&lt;p&gt;Here is the reality:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Layers aren’t physical things. They are agreements.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;They are protocols — a shared understanding between two systems on how to talk to each other.
+Understanding this distinction changes everything about how you debug, architect, and think about networking.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Craft of Engineering: Beyond Hello World</title>
+      <link>http://localhost:1313/posts/the-craft-of-engineering/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-craft-of-engineering/</guid>
+      <description>From Devices to Edge AI. Why I am starting this digital garden.</description>
+    </item>
+  </channel>
+</rss>
