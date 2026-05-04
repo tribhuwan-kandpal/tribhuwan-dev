@@ -17,8 +17,8 @@ When emerging tech does not work out of the box, organizational friction mounts.
 
 As an engineering manager, your primary responsibility is to act as the strategic bridge. You must manage the organizational hierarchy, define feasible deliverables and keep your engineering teams focused and isolated from cross-functional friction.
 
-### The Wireless Display Frontier
-I have managed this dynamic across several platform shifts over the years. One instance that perfectly illustrates this friction was directing the early deployment of Miracast on Samsung TVs. 
+### When Standards Fail: The Miracast Rollout
+I have managed this dynamic across several platform shifts over the years. One instance that perfectly illustrates this friction was leading the initial rollout of Miracast on Samsung TVs. 
 
 At the time, the wireless display standard was in its infancy. We were establishing the architecture to handle unpredictable source devices, optimize complex H.264 codec negotiations and manage acceptable latency over erratic Wi-Fi Direct connections. 
 
