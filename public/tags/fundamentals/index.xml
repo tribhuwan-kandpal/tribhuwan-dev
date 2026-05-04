@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Fundamentals on Tribhuwan Kandpal</title>
-    <link>http://localhost:1313/tags/fundamentals/</link>
+    <link>http://localhost:1414/tags/fundamentals/</link>
     <description>Recent content in Fundamentals on Tribhuwan Kandpal</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/fundamentals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1414/tags/fundamentals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The OSI Model: Stop Memorizing Acronyms, Start Understanding Layers</title>
-      <link>http://localhost:1313/posts/osi-model-layers-explained/</link>
+      <link>http://localhost:1414/posts/osi-model-layers-explained/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/osi-model-layers-explained/</guid>
+      <guid>http://localhost:1414/posts/osi-model-layers-explained/</guid>
       <description>&lt;p&gt;You’ve probably seen the diagram: seven colored boxes stacked vertically with cryptic acronyms—PHY, DLL, NWK, TRM, SES, PRS, APP.&lt;/p&gt;
 &lt;p&gt;If you are like most people learning networking, you memorized them for an exam —or maybe an interview —nodded, and moved on without truly understanding &lt;em&gt;why&lt;/em&gt; they exist.&lt;/p&gt;
 &lt;p&gt;Here is the reality:&lt;/p&gt;
