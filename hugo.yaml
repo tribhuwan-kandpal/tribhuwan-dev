@@ -18,7 +18,7 @@ params:
     title: "Tribhuwan Kandpal"
     # YOUR NEW HEADLINE HERE:
     subtitle: "Leader | Mentor | Devices | Streaming | Multimedia | EdgeAI | Networking | IoT | Embedded"
-    imageUrl: "https://github.com/tribhuwan-kandpal.png" 
+    imageUrl: "/images/avatar.jpg" 
     imageTitle: "Tribhuwan Kandpal"
     buttons:
       - name: "Blog"
