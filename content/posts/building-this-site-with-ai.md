@@ -6,36 +6,36 @@ tags: ["Engineering", "AI", "Efficiency", "Meta"]
 summary: "How I built this blog from 'empty folder' to 'production' in under an hour using AI."
 ---
 
-I am a builder at heart. But let’s be honest: setting up a personal website has always been a chore.
+I am a builder at heart. Setting up personal websites was historically a chore.
 
-In the past, this meant a weekend of friction: fighting with CSS, debugging obscure build errors, and wrestling with DNS propagation. It was "undifferentiated heavy lifting"—work that had to be done but added zero unique value to the world.
+It meant weekends of friction: fighting CSS, debugging obscure build errors and wrestling DNS propagation. It was "undifferentiated heavy lifting" (work that had to be done but added zero unique value).
 
-This time, I tried something different. I built this site (`tribhuwan.dev`) not just *with* AI, but *through* AI. The result? The entire process—from empty directory to live global SSL—took less than an hour.
+This time I tried something different. I built this site (`tribhuwan.dev`) not just *with* AI but *through* AI. Entire processes (from empty directories to live global SSL) took less than an hour.
 
 ### The Surprise Factor
-The surprise wasn't that the AI could write code. We know it can do that.
-The surprise was the **continuity of flow**.
+Surprise wasn't that AI could write code. We know it can do that.
+Surprise was continuity of flow.
 
-Usually, when you hit a snag—like a version mismatch in a CI/CD pipeline or a canonicalization issue with DNS—you stop. You Google. You read StackOverflow. You lose momentum.
+When you hit snags (like version mismatches in CI/CD pipelines or canonicalization issues with DNS) you normally stop. You Google. You read StackOverflow. Momentum dies.
 
-With AI, I simply stated the intent: *"I need a deployment script for Hugo on GitHub Pages."*
-When an error popped up, I didn't debug it manually; I fed the context back to the AI. It corrected the syntax, adjusted the version numbers, and we moved on.
+I simply stated intent: *"I need a deployment script for Hugo on GitHub Pages."*
+When errors popped up I didn't debug manually. I fed context back to AI. It corrected syntax, adjusted version numbers and we moved on.
 
-The friction didn't disappear, but it became negligible. It felt less like "coding" and more like "directing."
+Friction didn't disappear but it became negligible. It felt less like coding and more like directing.
 
 ### The Stack (Crisp & Clean)
-For those curious about the architecture, we kept it ruthlessly simple to ensure performance and longevity:
+For those curious about architecture we kept it ruthlessly simple to ensure performance and longevity:
 
-* **The Engine:** **Hugo** (Static Site Generator). No database, no security vulnerabilities, blazing fast.
-* **The Skin:** **PaperMod**. A minimalist theme that respects the reader's time.
-* **The Pipeline:** **GitHub Actions**. A simple YAML workflow that builds and deploys automatically on every push.
-* **The Edge:** **Cloudflare**. Handling DNS, SSL, and redirects before traffic even hits the server.
+* **Engine:** **Hugo** (Static Site Generator). No databases, no security vulnerabilities, blazing fast.
+* **Skin:** **PaperMod**. Minimalist themes respect reader time.
+* **Pipeline:** **GitHub Actions**. Simple YAML workflows build and deploy automatically on every push.
+* **Edge:** **Cloudflare**. Handles DNS, SSL and redirects before traffic hits servers.
 
-### The Lesson for Leaders
-I am sharing this process to highlight a shift in how we work.
+### Lessons for Leaders
+I am sharing this process to highlight shifts in how we work.
 
-As engineers, we often take pride in doing things the hard way. We treat the struggle as a badge of honor. But as leaders, our job is to maximize impact.
+Engineers often take pride in doing things the hard way. We treat struggle as badges of honor. As leaders our job is maximizing impact and guiding teams toward efficiency.
 
-AI didn't do the work *for* me; it removed the drag *from* me. It handled the boilerplate and the config syntax, allowing me to focus entirely on the architecture and the message.
+AI didn't do work *for* me. It removed drag *from* me. It handled boilerplate and config syntax allowing me to focus entirely on architecture and messaging.
 
-If you are holding back on building something because you dread the setup: **start now.** The barrier to entry has never been lower.
+If you are holding back on building something because you dread setup: **start now.** Barriers to entry have never been lower.
