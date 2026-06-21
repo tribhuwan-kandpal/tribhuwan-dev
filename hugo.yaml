@@ -38,6 +38,8 @@ services:
       url: "https://github.com/tribhuwan-kandpal"
     - name: medium
       url: "https://medium.com/@tribhuwan_86668"
+    - name: rss
+      url: "/index.xml"
 
 menu:
   main:
