@@ -83,7 +83,7 @@ Each step gradually removes uncertainty while aligning output with your text des
 
 Check out these resources to experience diffusion models in action:
 
-* [Stable Diffusion Web Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion): Experiment with basic Stable Diffusion and generate images from text prompts in real time.
+* [Stable Diffusion 3.5 Web Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion-3.5-large): Experiment with the latest Stable Diffusion model and generate images from text prompts in real time.
 * [Diffusion Explainer](https://poloclub.github.io/diffusion-explainer/): Detailed, step-by-step guide showing how SDXL converts noise into images.
 
 First lets you experiment hands-on, second helps you understand internal processes behind image generation.
@@ -103,4 +103,4 @@ What feels like magic is really just power of probability, noise modeling and de
 
 Next time you type a prompt into a generative AI tool, you'll know exactly how that "random noise" is being sculpted into your masterpiece.
 
-*Note: This article was originally published on my Medium account.*
+*Note: This article was originally published on my [Medium account](https://medium.com/@tribhuwan_86668/demystifying-diffusion-models-how-ai-generates-images-from-noise-5cd7ff12eb2a).*
