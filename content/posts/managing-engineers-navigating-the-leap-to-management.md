@@ -31,6 +31,18 @@ To abandon micromanagement and over-empathy I adopted Skill/Will matrices. This 
 
 It forces looking at each person individually. It demands choosing leadership strategies fitting their specific situation. Identical approaches cannot work for every engineer.
 
+```mermaid
+flowchart TD
+    Root[The Skill / Will Matrix] --> HighWill(High Motivation)
+    Root --> LowWill(Low Motivation)
+
+    HighWill --> Q1[Quadrant 1<br>High Skill<br><b>Strategy: Delegate</b>]
+    HighWill --> Q2[Quadrant 2<br>Low Skill<br><b>Strategy: Coach</b>]
+
+    LowWill --> Q3[Quadrant 3<br>High Skill<br><b>Strategy: Realign</b>]
+    LowWill --> Q4[Quadrant 4<br>Low Skill<br><b>Strategy: Diagnose</b>]
+```
+
 **Quadrant 1: High Skill, High Will**
 
 These are highly capable and self-motivated operators. Management playbooks here are simple. Establish strategic objectives. Delegate authority. Get out of their way. Managing these engineers too closely breeds resentment.
@@ -50,16 +62,6 @@ True tests of engineering managers lie in how they handle **Quadrant 4: Low Skil
 Early in my management career empathy made me avoid this quadrant. I assumed people simply needed more time or lighter workloads. Reality proves that ignoring Quadrant 4 employees destroys morale among high performers. High performers inevitably end up carrying dead weight.
 
 Addressing this quadrant requires direct conversations. You must ask hard questions. *Are they actually a bad engineer, or are they simply a bad fit for this specific project?*
-
-```mermaid
-flowchart TD
-    A[Identify Quadrant 4: Low Skill and Low Will] --> B{Diagnose the Root Cause}
-    B -->|Burnout or overwhelmed| C[Reduce scope and re-evaluate]
-    B -->|Wrong domain fit| D[Evaluate transfer options]
-    B -->|Cultural or attitude issue| E[Initiate formal coaching plan]
-    D --> F[Example: Move from feature delivery to legacy stabilization]
-    E --> G[Establish clear exit criteria if no improvement]
-```
 
 Sometimes the most empathetic action a manager can take is acknowledging an engineer sits in the wrong place. I sit down with people in this quadrant and systematically evaluate their path.
 
